@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "functions": {
-    "search/main.js": {
-      "runtime": "@vercel/node"
-    }
-  }
-}
